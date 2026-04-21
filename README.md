@@ -1,13 +1,5 @@
-# @catalyst-team/poly-sdk
-
-[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.en.md)
-[![中文](https://img.shields.io/badge/语言-中文-red.svg)](README.zh-CN.md)
-[![版本](https://img.shields.io/badge/版本-0.2.0-blue.svg)](package.json)
-[![许可](https://img.shields.io/badge/许可-MIT-green.svg)](LICENSE)
 
 Polymarket 统一 TypeScript SDK - 预测市场交易、套利检测、聪明钱分析和完整市场数据。
-
-**开发者**: [@hhhx402](https://x.com/hhhx402) | **项目**: [Catalyst.fun](https://x.com/catalystdotfun)
 
 ## 核心功能
 
